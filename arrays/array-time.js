@@ -6,8 +6,8 @@
 
 const time = ['Peter', 'Pan', true, 36]
     //indices   0         1     2     3
+time [55] // underfined
 
-console.log(time)
-console.log(time[1])
-console.log(time[32])
-
+for (const jogador of time)  {
+    console. log("jogador:" +jogador)
+}

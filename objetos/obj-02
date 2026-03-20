@@ -1,0 +1,15 @@
+// escolher um tema
+// criar um objeto a sua escolha
+// deve ter 5 prioridades no minimo
+// imprima como no exemplo...
+//ex: console.log('tipo de carne:"+ carne.tipo)
+
+const homemdeferro= {
+   nome: 'TonyStark',
+  idade: '53',
+  onde mora:  'vive em uma casa de campo no campo com Pepper Potts e Morgan Stark',
+  profissao: 'bilionario, heroi, pai',
+estadocivil: 'casado e com filha'
+}
+const dadoshomemdeferro ='Homem de ferro' + homemdeferro.nome + "profissão: " + homemdeferro.profissao
+console.log (dadoshomemdeferro)
