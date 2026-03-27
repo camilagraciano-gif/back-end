@@ -11,8 +11,8 @@ function divisao(n1, n2) {
     }
 
 }
-divisao(12, 2)
-divisao(40, 2)
+divisao(12, 5)
+divisao(36, 2)
 
 function soma(n1, n2) {
     console.log("a soma de " + n1 + " por " + n2 + " é = " + (n1 + n2))
