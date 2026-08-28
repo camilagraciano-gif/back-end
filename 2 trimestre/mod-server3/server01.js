@@ -5,7 +5,7 @@ const path = require('node:path')
 
 const porta = 8001
 
-// Mapeamento dos caminhos dos arquivos HTML na pasta "pages"
+// Mapeamento dos caminhos dos arquivos HTML na pasta "pages2"
 const home = path.join(__dirname, 'pages', 'index.html')
 const compras = path.join(__dirname, 'pages', 'compras.html')
 const erro = path.join(__dirname, 'pages', 'erro.html')
